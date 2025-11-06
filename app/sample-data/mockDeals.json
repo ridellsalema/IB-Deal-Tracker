@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "buyer": "Goldman Sachs",
+      "target": "Fintech Corp",
+      "value": 1200000000,
+      "sector": "Technology",
+      "description": "Acquisition to expand digital payments reach."
+    },
+    {
+      "id": 2,
+      "buyer": "JP Morgan",
+      "target": "GreenEnergy Ltd",
+      "value": 850000000,
+      "sector": "Energy",
+      "description": "Merger focused on sustainable energy investments."
+    }
+  ]
+  
